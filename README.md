@@ -1,9 +1,9 @@
 # Guillermo
 
-Embedded and communications systems engineer. I write low-level C and C++, bare-metal firmware and signal-processing code.
+Embedded and communications systems engineer. I write low-level C and C++ and bare-metal firmware.
 B.Sc. in Physics with a computational focus, based in Spain.
 
-**Stack:** C, C++, Python / PyTorch, Zynq-7000, SDR, Linux
+**Stack:** C, C++, Python / PyTorch, Linux
 
 ## Selected work
 
